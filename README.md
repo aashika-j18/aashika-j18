@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+P+.+Lakshmi+Pavananjali;DEVOPS;OPEN+SOURCE;CODING;AIML)](https://git.io/typing-svg)
 
 <div>
-<p> <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Vaibhav-kesarwani" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=aashika-j18&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="aashika-j18" /> </p>
 <!-- <a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" /></a> -->
 </div>
 
