@@ -2,7 +2,7 @@
 
 <h1> Hi! I'm <a href="https://www.linkedin.com/in/aashika-jetti-886932279/">Aashika :)</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=800&color=ADD8E6&vCenter=true&width=1500&height=150&lines=Flutter;Web+Dev;Open+Source;Problem+Solving)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=500&color=ADD8E6&vCenter=true&width=1500&height=150&lines=Flutter+Dev;Web+Dev;Open+Source;Problem+Solving)
 
 ☀️ Student by day, Developer and Problem Solver by night.🌛<br>
 👩‍💻 Open Source Contributor at GSSOC-extd'24 <br>
