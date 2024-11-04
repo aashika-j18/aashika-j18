@@ -97,7 +97,7 @@
 [![An image of @aashikaj18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashikaj18)](https://holopin.io/@aashikaj18)
 <br>
 
-## 🪶 GSSOC'24 
+## 🪶 GSSOC-extd'24 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 
 
