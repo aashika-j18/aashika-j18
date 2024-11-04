@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=100&color=ADD8E6&vCenter=true&width=1500&height=150&lines=Flutter+Dev;Web+Dev;Open+Source;Problem+Solving)
 
 ☀️ Student by day, Developer and Problem Solver by night.🌛<br>
-👩‍💻 Open Source Contributor at GSSOC-extd'24 <br>
+👩‍💻 Open Source Contributor at GSSOC-extd'24. <br>
 🌏 Completed Hacktoberfest by contributing to primarily Flutter Projects. <br>
 🌱 Actively learning Blockchain! <br>
 
