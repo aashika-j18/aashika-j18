@@ -6,7 +6,7 @@
 
 
 - ☀️ Student by day, Developer and Problem Solver by night.🌛
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Open Source Contributor at GSSOC-extd'24 <br>
+- 👩‍💻 Open Source Contributor at GSSOC-extd'24 <br>
 - 🌏 Completed Hacktoberfest by contributing to primarily Flutter Projects.
 - 🌱 Actively learning Blockchain! <br>
 
@@ -93,17 +93,16 @@
 <br>
 <br>
 
-# 🌏 Hacktoberfest
+## 🌏 Hacktoberfest
 [![An image of @aashikaj18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashikaj18)](https://holopin.io/@aashikaj18)
 <br>
 
-# 🪶 GSSOC(24) Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+## 🪶 GSSOC(24) Badges 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-<div/>
 
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats</h1>
+
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" />GitHub Stats</h1>
 
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashika-j18&theme=highcontrast">
