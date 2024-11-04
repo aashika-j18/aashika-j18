@@ -1,15 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-<h1 align="center"><!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> --> Hi! I'm <a href="https://www.linkedin.com/in/aashika-jetti-886932279/">Aashika :)</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi! I'm <a href="https://www.linkedin.com/in/aashika-jetti-886932279/">Aashika :)</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=Flutter;Web+Dev;Open+Source;Problem+Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=800&color=black&vCenter=true&width=1500&height=150&lines=Flutter;Web+Dev;Open+Source;Problem+Solving)](https://git.io/typing-svg)
 
 
 - ☀️ Student by day, Developer and Problem Solver by night.🌛
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Completed Hacktoberfest and an Open Source Contributor at GSSOC-extd'24 <br>
 - 🌱 Actively learning Blockchain! <br>
+
+<h1 align="center">Let's Connect</h1>
+<p align="center">
+  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:aashikajettir@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/ChaitanyaLonarkar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/aashika-jetti-886932279/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+</p>
+
   
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technologies </h1>
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
@@ -81,14 +90,20 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
 
-
+## Hacktoberfest
 [![An image of @aashikaj18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashikaj18)](https://holopin.io/@aashikaj18)
+<br>
 
+<summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<div/>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashika-j18&theme=highcontrast">
