@@ -2,7 +2,7 @@
 
 <h1> Hi! I'm <a href="https://www.linkedin.com/in/aashika-jetti-886932279/">Aashika :)</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=800&color=black&vCenter=true&width=1500&height=150&lines=Flutter;Web+Dev;Open+Source;Problem+Solving)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=800&color=ADD8E6&vCenter=true&width=1500&height=150&lines=Flutter;Web+Dev;Open+Source;Problem+Solving)
 
 
 - ☀️ Student by day, Developer and Problem Solver by night.🌛
@@ -10,7 +10,8 @@
 - 🌏 Completed Hacktoberfest by contributing to primarily Flutter Projects.
 - 🌱 Actively learning Blockchain! <br>
 
-<h1 > <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Let's Connect</h1>
+<br>
+<h1> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Let's Connect</h1>
 <p>
 	<a href="mailto:aashikajettir@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/ChaitanyaLonarkar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
@@ -97,10 +98,11 @@
 [![An image of @aashikaj18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aashikaj18)](https://holopin.io/@aashikaj18)
 <br>
 
-## 🪶 GSSOC(24) Badges 
+## 🪶 GSSOC'24 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 
 
+<br>
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" />GitHub Stats</h1>
 
